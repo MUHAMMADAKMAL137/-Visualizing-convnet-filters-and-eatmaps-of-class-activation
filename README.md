@@ -1,1 +1,1 @@
-# -Visualizing-convnet-filters-and-eatmaps-of-class-activation
+# Visualizing-convnet-filters-and-heatmaps-of-class-activation
